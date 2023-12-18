@@ -17,6 +17,10 @@ Nowadays I am finishing a major in Computer Science at the University of São Pa
 - Search engine for Computer Security related Papers ([SURF](https://github.com/joaofavoretti/SURF))
 - My own version of `ping` ([ping](https://github.com/joaofavoretti/ping))
 
+### Prefered Languages
+- C/C++: For complex stuff
+- Python: For fast scripting
+
 ### Contact
 - 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-favoretti/) 
 - 🐦 [Twitter](https://twitter.com/jfavoretti)
