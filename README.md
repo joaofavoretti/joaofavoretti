@@ -1,4 +1,4 @@
-## Hey 👋
+## Hey <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
 My name is João Pedro (21) and I am a Computer Science student from Brazil 🇧🇷.
 
@@ -17,13 +17,13 @@ Nowadays I am finishing a major in Computer Science at the University of São Pa
 - Search engine for Computer Security related Papers ([SURF](https://github.com/joaofavoretti/SURF))
 - My own version of `ping` ([ping](https://github.com/joaofavoretti/ping))
 
-### Prefered Languages
+### 💻 Prefered Languages
 - C/C++: For complex stuff
 - Python: For fast scripting
 
 ### Contact
-- 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-favoretti/) 
-- 🐦 [Twitter](https://twitter.com/jfavoretti)
+[![Linkedin Badge](https://img.shields.io/badge/-João_Pedro_Favoretti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-pedro-favoretti)](https://www.linkedin.com/in/jo%C3%A3o-pedro-favoretti)
+[![Twitter Badge](https://img.shields.io/badge/-@jfavoretti-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jfavoretti)](https://twitter.com/jfavoretti)
 
 <!--
 
